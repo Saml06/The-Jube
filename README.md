@@ -1,2 +1,2 @@
 # The-Jube
-Custom OpenGL python application
+The holy grail of cubes
